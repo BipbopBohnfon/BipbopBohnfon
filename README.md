@@ -1,4 +1,4 @@
-![banner](images/banner.png)
+![Banner](Banner.png)
 
 Still WIP...
 ### Systems Programming
